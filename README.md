@@ -13,5 +13,5 @@ Just a hobby
 <br>
 
 3. ## 乾爹贊助系統
-- 讓實況煮或是Youtuber能夠透過Ethereum收取現金，並知道是誰付錢的
+- 讓實況主或是Youtuber能夠透過Ethereum收取現金，並知道是誰付錢的
 
