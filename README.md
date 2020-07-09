@@ -3,7 +3,7 @@ Just a hobby
 
 # Ethereum 智能合約練習
 
-1. ## 永久記錄文字
+1. ## 永久記錄文字 - RecordText.sol
 - 讓你的文字永久流傳永不失效，永遠可以調用
 <br>
 
